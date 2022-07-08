@@ -3,9 +3,13 @@
     
   }
 
+body{
+  background-color: gray;
+}
+
   h1{
     border: 3px rgb(147, 149, 255) solid;
-    padding: 150px;
+    padding: 50px;
     flex:5;
     border-radius: 12px;
     background-color: rgb(181, 181, 236);
@@ -18,7 +22,7 @@
   h2{
     border: 3px rgb(147, 149, 255) solid;
     padding: 10px;
-    flex:20;
+    flex:5;
     border-radius: 12px;
     background-color: rgb(181, 181, 236);
     color: rgb(167, 208, 245);
@@ -29,7 +33,37 @@
   h3{
     border: 3px rgb(147, 149, 255) solid;
     padding: 10px;
-    flex:20;
+    flex:5;
+    border-radius: 12px;
+    background-color: rgb(181, 181, 236);
+    color: rgb(167, 208, 245);
+    box-shadow: -1px 8px 8px;
+  }
+
+  h4{
+    border: 3px rgb(147, 149, 255) solid;
+    padding: 10px;
+    flex:5;
+    border-radius: 12px;
+    background-color: rgb(181, 181, 236);
+    color: rgb(167, 208, 245);
+    box-shadow: -1px 8px 8px;
+  }
+
+  h5{
+    border: 3px rgb(147, 149, 255) solid;
+    padding: 10px;
+    flex:5;
+    border-radius: 12px;
+    background-color: rgb(181, 181, 236);
+    color: rgb(167, 208, 245);
+    box-shadow: -1px 8px 8px;
+  }
+
+  h6{
+    border: 3px rgb(147, 149, 255) solid;
+    padding: 10px;
+    flex:5;
     border-radius: 12px;
     background-color: rgb(181, 181, 236);
     color: rgb(167, 208, 245);
