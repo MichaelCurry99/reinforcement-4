@@ -1,5 +1,37 @@
 #container{
-    display: flexbox;
-    grid-template-columns:25rem 25rem 25rem 25rem 25rem 25rem 25rem 25rem;
-    grid-template-rows: 25rem 25rem 25rem 25rem;
+    display: flex;
+    
+  }
+
+  h1{
+    border: 3px rgb(147, 149, 255) solid;
+    padding: 150px;
+    flex:5;
+    border-radius: 12px;
+    background-color: rgb(181, 181, 236);
+    color: rgb(167, 208, 245);
+    box-shadow: -1px 8px 8px;
+    height: 150%;
+    
+  }
+
+  h2{
+    border: 3px rgb(147, 149, 255) solid;
+    padding: 10px;
+    flex:20;
+    border-radius: 12px;
+    background-color: rgb(181, 181, 236);
+    color: rgb(167, 208, 245);
+    box-shadow: -1px 8px 8px;
+  
+  }
+
+  h3{
+    border: 3px rgb(147, 149, 255) solid;
+    padding: 10px;
+    flex:20;
+    border-radius: 12px;
+    background-color: rgb(181, 181, 236);
+    color: rgb(167, 208, 245);
+    box-shadow: -1px 8px 8px;
   }
